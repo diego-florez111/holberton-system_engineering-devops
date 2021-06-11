@@ -1,4 +1,4 @@
 #!/bin/bash
-cd /temp/
+cd /tmp
 mv betty /tmp/holberton
 
