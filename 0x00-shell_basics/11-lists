@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a /home/diegof111/holberton-system_engineering-devops/0x00-shell_basics /home/diegof111/holberton-system_engineering-devops /
+ls -la /home/diegof111/holberton-system_engineering-devops/0x00-shell_basics /home/diegof111/holberton-system_engineering-devops /
